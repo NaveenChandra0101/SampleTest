@@ -1,0 +1,19 @@
+url:http://demowebshop.tricentis.com/
+Environment:QA
+
+...............................................
+UserName:testdemowebshop@gmail.com
+Password:Test123
+.............................
+
+firstName:Testing
+lastName:NaveenChandra
+
+city:Hyderabad
+Address1:flat#101, bank colony
+Address2:gachibowli
+ZipCode:500010
+phonenumber:9850193870
+
+..........................................
+shippingDropdown:Testing NaveenChandra, flat#101, bank colony, Hyderabad 500010, India
